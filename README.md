@@ -15,7 +15,7 @@
 13. Certifique-se que seu status esteja sem mudanças para serem "comitadas";
 14. Agora faça um merge da branch "develop" e "master";
 15. Certifique-se que as alterações da branch "develop" estão na branch "master" através dos logs;
-16. Vá novamente para a branch "develop" e crie uma branch chamada "nova-tela";
+16. Vá novamente para a branch "develop" e crie uma branch chamada "nova-tela", estou executando esta tarefa;
 17. Altere uma linha no arquivo README.md e faça commit nessa nova branch;
 18. Volte para a branch "develop" e crie mais uma branch, mas com o nome "nova-tela2";
 19. Altere o arquivo README.md na mesma linha da alteração feita na branch "nova-tela";
